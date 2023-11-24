@@ -19,8 +19,9 @@ console.log('Gli ultimi 5 numeri dell\'array sono:');
 console.log(array.slice(-5));
 
 // 6 - Bonus chiedere all'utente quanti elementi vuole stampare
-let num_element = prompt('Quanti elementi vogliamo stampare?');
-console.log(num_element);
+let num_element = parseInt(prompt('Quanti elementi vogliamo stampare?'));
+console.log(array.slice(0, num_element));
+
 
 
 

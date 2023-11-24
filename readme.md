@@ -34,16 +34,19 @@ Cartella: array_tail
 Creiamo un array chiedendo all'utente quanti elementi dovrà contenere e generando tanti numeri casuali (compresi nell'intervallo da 1 a 100) per quanti sono gli elementi da inserire.
 Stampiamo poi gli ultimi 5 elementi dell'Array
 
-Svolgimento:
-1 - Creare prompt per chiedere all'utente quanti elementi inserire nell'array
-2 - Creare array vuoto
-3 - Creare array di tot elementi con numeri casuali all'interno 
-4 - Stampiamo gli ultimi 5 elementi dell'array.
-
 Bonus:
 Chiediamo all'utente quanti elementi dell'array dovremo stampare
 Suggerimenti:
 Probabilmente conviene controllare che il numero di elementi della coda non sia più grande del numero di elementi totali dell'array
+
+Svolgimento:
+1 - Creare prompt per chiedere all'utente quanti elementi inserire nell'array
+2 - Creare array vuoto
+3 - Creare ciclo for per generare numeri casuali
+4 - Pusharli nell'array
+5 - Stampiamo gli ultimi 5 elementi dell'array.
+Bonus:
+6 - Creare un prompt per chiedere quanti elementi dell'arrey vogliamo stampare
 
 3.  (Bonus)
 Cartella: array_bonus

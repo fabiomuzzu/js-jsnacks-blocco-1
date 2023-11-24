@@ -22,10 +22,11 @@ Sì, lo sappiamo che esiste la funzione includes() ma noi non la vogliamo utiliz
 Svolgimento:
 
 1 - Creare array con frutta.
-2 - Creare variabile con pesca e pusharla nell'arrey.
-3 - Creare ciclo for per verificare la presenza del cocomero
-4 - ? cocomero presente stampare in console.log "Trovato! Devo solo preparare il cocktail."
-5 - : stampare "Oh no, devo uscire a comprare il cocomero!"
+2 - Creare variabile con pesca
+3 - Pusharla nell'arrey.
+4 - Creare ciclo for per verificare la presenza del cocomero
+5 - ? cocomero presente stampare in console.log "Trovato! Devo solo preparare il cocktail."
+6 - : stampare "Oh no, devo uscire a comprare il cocomero!"
 
 
 2. La coda dell'Array

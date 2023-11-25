@@ -12,11 +12,12 @@ let lengthDifference = Math.abs(array1.length - array2.length);
 
 // Aggiungi elementi all'array che ha meno elementi
 if (array1.length < array2.length) {
-  for (var i = 0; i < lengthDifference; i++) {
+  for (let i = 0; i < lengthDifference; i++) {
     array1.push("" + (i + 1));
   }
-} else if (array2.length < array1.length) {
-  for (var i = 0; i < lengthDifference; i++) {
+} 
+else if (array2.length < array1.length) {
+  for (let i = 0; i < lengthDifference; i++) {
     array2.push("" + (i + 1));
   }
 }
